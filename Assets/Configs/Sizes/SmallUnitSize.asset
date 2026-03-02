@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa8c50eef12e4598be2734a18c63baf2, type: 3}
+  m_Name: SmallUnitSize
+  m_EditorClassIdentifier: Assembly-CSharp::UnitSizeConfig
+  <Name>k__BackingField: Small
+  _modifiers:
+  - <StatType>k__BackingField: {fileID: 11400000, guid: efead3a17884a0b4e9a89ac54666a38b, type: 2}
+    <Value>k__BackingField: -50
+    <Type>k__BackingField: 0
+  <SizeScale>k__BackingField: 0.5
+  colliderRadiusMultiplier: 0.5

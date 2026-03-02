@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a76e48ef051c4058bc9de8dae43d67d9, type: 3}
+  m_Name: UnitConfig
+  m_EditorClassIdentifier: Assembly-CSharp::UnitConfig
+  <DefaultHp>k__BackingField: 100
+  <DefaultAtk>k__BackingField: 10
+  <DefaultSpeed>k__BackingField: 10
+  <DefaultAtkSpd>k__BackingField: 1
+  <BaseStatTypes>k__BackingField: {fileID: 11400000, guid: a72c1f08e3bd8594f9f0797b937aa3d5, type: 2}
+  <Shapes>k__BackingField:
+  - {fileID: 11400000, guid: e1bdb4b4e20c3b740b3409ea8874ef83, type: 2}
+  - {fileID: 11400000, guid: f6b69eac77f4b704fbd5cf6266ea15c8, type: 2}
+  <Sizes>k__BackingField:
+  - {fileID: 11400000, guid: 1fe67efef364ef246be5e70a9f88222b, type: 2}
+  - {fileID: 11400000, guid: dff7d7b05978bcb45865dad5e4cb29dc, type: 2}
+  <Colors>k__BackingField:
+  - {fileID: 11400000, guid: a5aabe84e5a5ac54d82a92e371c6a94b, type: 2}
+  - {fileID: 11400000, guid: dd3eef56e81395e4a908c2c10f28812c, type: 2}
+  - {fileID: 11400000, guid: b7c1bc2fcee60b548bee5c8260b663f7, type: 2}
+  <Attacks>k__BackingField:
+  - {fileID: 11400000, guid: 6032c5a4d42c0954ea96619a3ce4faf4, type: 2}
+  <DefaultAttack>k__BackingField: {fileID: 11400000, guid: 6032c5a4d42c0954ea96619a3ce4faf4, type: 2}

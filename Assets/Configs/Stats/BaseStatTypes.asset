@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c21eadb65134ce7b525d30b93cf138d, type: 3}
+  m_Name: BaseStatTypes
+  m_EditorClassIdentifier: Assembly-CSharp::BaseStatTypes
+  <Hp>k__BackingField: {fileID: 11400000, guid: efead3a17884a0b4e9a89ac54666a38b, type: 2}
+  <Atk>k__BackingField: {fileID: 11400000, guid: 8ba5042db67d74c4a84c3da22b07dde0, type: 2}
+  <Speed>k__BackingField: {fileID: 11400000, guid: 5793e2bba86ecea49a5af6a6d5c9f15a, type: 2}
+  <AtkSpd>k__BackingField: {fileID: 11400000, guid: 28302ebdb89593340821140f42de68c9, type: 2}
+  <AllStats>k__BackingField:
+  - {fileID: 11400000, guid: efead3a17884a0b4e9a89ac54666a38b, type: 2}
+  - {fileID: 11400000, guid: 8ba5042db67d74c4a84c3da22b07dde0, type: 2}
+  - {fileID: 11400000, guid: 5793e2bba86ecea49a5af6a6d5c9f15a, type: 2}
+  - {fileID: 11400000, guid: 28302ebdb89593340821140f42de68c9, type: 2}

@@ -15,7 +15,7 @@ MonoBehaviour:
   _armies:
   - _team: 1
     _basePosition: {x: 8.7, y: 0, z: 1.4}
-    _lookDirection: {x: 0, y: 0, z: 0}
+    _lookDirection: {x: 0, y: 0, z: 1}
     _formation: {fileID: 11400000, guid: 10e68c141921a8a428e731c706836f79, type: 2}
     _count: 20
   - _team: 0

@@ -8,4 +8,4 @@
 - **Targeting System:** Эффективный поиск целей среди вражеских юнитов на основе дистанции.
 - **Level Management:** Система переходов между уровнями и отслеживание состояния победы/поражения.
 
-![Описание скриншота](Assets\Images\Screenshot.png)
+<img width="927" height="521" alt="Screenshot" src="https://github.com/user-attachments/assets/1598555a-9e4f-4320-b2e7-1f42968cdcdb" />
